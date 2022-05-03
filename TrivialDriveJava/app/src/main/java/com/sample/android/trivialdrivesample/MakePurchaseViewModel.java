@@ -13,12 +13,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.sample.android.trivialdrivesample;
+package com.trwhite.java.trivialdrive;
 
-import static com.sample.android.trivialdrivesample.TrivialDriveRepository.SKU_GAS;
-import static com.sample.android.trivialdrivesample.TrivialDriveRepository.SKU_INFINITE_GAS_MONTHLY;
-import static com.sample.android.trivialdrivesample.TrivialDriveRepository.SKU_INFINITE_GAS_YEARLY;
-import static com.sample.android.trivialdrivesample.TrivialDriveRepository.SKU_PREMIUM;
+import static com.trwhite.java.trivialdrive.TrivialDriveRepository.SKU_GAS;
+import static com.trwhite.java.trivialdrive.TrivialDriveRepository.SKU_INFINITE_GAS_MONTHLY;
+import static com.trwhite.java.trivialdrive.TrivialDriveRepository.SKU_INFINITE_GAS_YEARLY;
+import static com.trwhite.java.trivialdrive.TrivialDriveRepository.SKU_PREMIUM;
 
 import android.app.Activity;
 

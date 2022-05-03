@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.sample.android.trivialdrivesample;
+package com.trwhite.java.trivialdrive;
 
 import android.app.Application;
 
-import com.sample.android.trivialdrivesample.billing.BillingDataSource;
-import com.sample.android.trivialdrivesample.db.GameStateModel;
+import com.trwhite.java.trivialdrive.billing.BillingDataSource;
+import com.trwhite.java.trivialdrive.db.GameStateModel;
 
 public class TrivialDriveApplication extends Application {
     public AppContainer appContainer;

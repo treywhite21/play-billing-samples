@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.sample.android.trivialdrivesample.billing;
+package com.trwhite.java.trivialdrive.billing;
 
 import android.app.Activity;
 import android.app.Application;
@@ -45,7 +45,7 @@ import com.android.billingclient.api.SkuDetails;
 import com.android.billingclient.api.SkuDetailsParams;
 import com.android.billingclient.api.SkuDetailsResponseListener;
 
-import com.sample.android.trivialdrivesample.ui.SingleMediatorLiveEvent;
+import com.trwhite.java.trivialdrive.ui.SingleMediatorLiveEvent;
 
 import java.util.ArrayList;
 import java.util.Arrays;

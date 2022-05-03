@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.sample.android.trivialdrivesample.billing;
+package com.trwhite.java.trivialdrive.billing;
 /*
  * This class is an sample of how you can check to make sure your purchases on the device came
  * from Google Play. Putting code like this on your server will provide additional protection.
@@ -27,7 +27,7 @@ import android.text.TextUtils;
 import android.util.Base64;
 import android.util.Log;
 
-import com.sample.android.trivialdrivesample.BuildConfig;
+import com.trwhite.java.trivialdrive.BuildConfig;
 
 import java.io.IOException;
 import java.security.InvalidKeyException;
