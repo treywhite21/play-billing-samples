@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.sample.android.trivialdrivesample
+package com.trwhite.java.trivialdrive
 
 import android.app.Activity
 import android.util.Log
 import androidx.lifecycle.LifecycleObserver
-import com.sample.android.trivialdrivesample.billing.BillingDataSource
-import com.sample.android.trivialdrivesample.db.GameStateModel
+import com.trwhite.java.trivialdrive.billing.BillingDataSource
+import com.trwhite.java.trivialdrive.db.GameStateModel
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow

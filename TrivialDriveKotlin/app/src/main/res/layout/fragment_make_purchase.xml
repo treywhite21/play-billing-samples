@@ -27,7 +27,7 @@
 
         <variable
             name="mpvm"
-            type="com.sample.android.trivialdrivesample.MakePurchaseViewModel"/>
+            type="com.trwhite.java.trivialdrive.MakePurchaseViewModel"/>
         <import type="android.view.View"/>
     </data>
     <FrameLayout

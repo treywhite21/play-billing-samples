@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.sample.android.trivialdrivesample
+package com.trwhite.java.trivialdrive
 
 import androidx.lifecycle.LifecycleObserver
 import androidx.lifecycle.LiveData

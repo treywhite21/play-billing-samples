@@ -23,7 +23,7 @@ android {
     buildToolsVersion '30.0.3'
 
     defaultConfig {
-        applicationId 'com.sample.android.trivialdrivesample'
+        applicationId 'com.trwhite.java.trivialdrive'
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 8

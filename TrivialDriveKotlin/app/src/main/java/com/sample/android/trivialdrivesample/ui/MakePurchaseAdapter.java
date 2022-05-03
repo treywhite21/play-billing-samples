@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.sample.android.trivialdrivesample.ui;
+package com.trwhite.java.trivialdrive.ui;
 
 import android.text.method.LinkMovementMethod;
 import android.view.LayoutInflater;
@@ -24,10 +24,10 @@ import androidx.annotation.NonNull;
 import androidx.databinding.DataBindingUtil;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.sample.android.trivialdrivesample.MakePurchaseViewModel;
-import com.sample.android.trivialdrivesample.R;
-import com.sample.android.trivialdrivesample.databinding.InventoryHeaderBinding;
-import com.sample.android.trivialdrivesample.databinding.InventoryItemBinding;
+import com.trwhite.java.trivialdrive.MakePurchaseViewModel;
+import com.trwhite.java.trivialdrive.R;
+import com.trwhite.java.trivialdrive.databinding.InventoryHeaderBinding;
+import com.trwhite.java.trivialdrive.databinding.InventoryItemBinding;
 
 import java.util.List;
 

@@ -13,11 +13,11 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.sample.android.trivialdrivesample
+package com.trwhite.java.trivialdrive
 
 import android.app.Application
-import com.sample.android.trivialdrivesample.billing.BillingDataSource
-import com.sample.android.trivialdrivesample.db.GameStateModel
+import com.trwhite.java.trivialdrive.billing.BillingDataSource
+import com.trwhite.java.trivialdrive.db.GameStateModel
 import kotlinx.coroutines.GlobalScope
 
 class TrivialDriveApplication : Application() {
