@@ -24,7 +24,7 @@ android {
         applicationId 'com.trwhite.java.trivialdrive'
         minSdkVersion 21
         targetSdkVersion 30
-        versionCode 8
+        versionCode 9
         versionName "1.5"
         javaCompileOptions {
             annotationProcessorOptions {
